@@ -1,0 +1,4 @@
+<div class="user-wrapper" *ngFor="let user of this.korisnici" (click)="selectUser(user)">
+  <div class="id">{{user.id}}</div>
+  <div class="name">{{user.name}}</div>
+</div>

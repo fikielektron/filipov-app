@@ -1,0 +1,10 @@
+.user-wrapper{
+  background-color: #cdcdcd;
+  margin: 10px;
+  padding: 20px;
+  border-radius: 4px;
+}
+
+.user-wrapper:hover{
+  background-color: #ededed;
+}
